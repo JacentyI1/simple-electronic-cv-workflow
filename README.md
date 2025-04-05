@@ -1,33 +1,36 @@
 # simple-electronic-cv-workflow
-*Prosty* elektroniczny proces obiegu CV
+'*Prosty* elektroniczny proces obiegu CV'
+ETC: 3 weeks (2025.05.25)
 
 ## 🧭 Overview
 Brief description of the project and what problem it solves.
 
-Core features:
+### Core features:
 - Document creation,
-- approval,
-- signing,
-- archiving
-
-Role-based access control
-
-Notification system
-
-Integration with third-party services (e.g., email, cloud storage, e-signature)
+- Doc. approval,
+- Doc. signing,
+- Doc. archiving
+### Project solutions
+- Role-based access control
+- Notification system
+- Integration with third-party services (email)
+- <span style="color:fbbc05"><b>[</b> Work in progress... <b>]</b></span>
 
 ## 📐 Architecture
 High-level architecture diagram (optional but helpful)
 
+### Diagram
+
+### Description
 Explanation of:
+
+Technology stack (e.g., .NET MAUI, Blazor, EF Core, RabbitMQ, etc.)
 
 Layers (e.g., UI, application/service, domain, infrastructure)
 
 Key components (e.g., workflow engine, document manager, user roles)
 
-Technology stack (e.g., .NET MAUI, Blazor, EF Core, RabbitMQ, etc.)
-
-🏗️ Project Structure
+## 🏗️ Project Structure
 Explanation of the folder structure, especially:
 
 Domain/Models
@@ -39,6 +42,7 @@ Infrastructure/Persistence
 UI/Pages or UI/Components
 
 Plugins/Adapters (for scanners or APIs)
+
 
 ## 🚀 Getting Started
 Prerequisites:
