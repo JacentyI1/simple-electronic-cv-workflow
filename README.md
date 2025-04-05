@@ -14,7 +14,7 @@ Brief description of the project and what problem it solves.
 - Role-based access control
 - Notification system
 - Integration with third-party services (email)
-- <span style="color:fbbc05"><b>[</b> Work in progress... <b>]</b></span>
+- <span style="color:fbbc05"> Work in progress... </span>
 
 ## 📐 Architecture
 High-level architecture diagram (optional but helpful)
