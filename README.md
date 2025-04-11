@@ -119,3 +119,6 @@ The license governing the usage of the project (MIT, GPL, etc.)
 
 ## 📬 Contact / Support
 How to reach maintainers or get help
+
+## Read about
+- camunda embedded
